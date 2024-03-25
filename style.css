@@ -1,4 +1,27 @@
-#content{
-    background-color: red;
-    width: 200px;
-}
+  #husvetiszokasok{
+            text-align: center;
+        }
+
+        #mirolszolahusvet{
+            font-size: 16px;
+            color: purple;
+        }
+
+        #husvettortenete{
+            color: blue;
+        }
+
+        #locsolovers{
+            
+            color: red;
+            float: left;
+            margin: 10px 5px 0px 450px;
+        }
+
+        img{
+            width: 300px;
+            height: 450px;
+            float: right;
+            margin: 10px 450px 0px 5px;
+            
+        }
